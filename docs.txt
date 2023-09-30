@@ -312,7 +312,7 @@
           "description": "Returns the functions connected to event as a table.\nEach entry in the returned table is a table with Enable and Disable methods.\nYou can call those methods to enable/disable connections.",
           "insert": "getconnections"
       },
-      "is_oxygen_function": {
+      "is_fragment_function": {
           "label": "is_fragment_function(f);",
           "type": "Method",
           "description": "returns true if f is a Fragment function.",
